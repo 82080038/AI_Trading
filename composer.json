@@ -1,0 +1,17 @@
+{
+    "name": "ai-trading-assistant/xampp",
+    "description": "AI-Powered Trading Analysis Platform - XAMPP Version",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "ext-pdo": "*",
+        "ext-json": "*"
+    },
+    "authors": [
+        {
+            "name": "82080038",
+            "email": "your-email@example.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
