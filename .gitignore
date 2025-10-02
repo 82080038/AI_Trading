@@ -1,0 +1,47 @@
+# Database credentials
+/config/database.local.php
+/config/private_keys.php
+
+# Log files
+*.log
+/logs/
+/python_scripts/logs/
+
+# Temporary files
+/tmp/
+/cache/
+/sessions/
+
+# Data files (too large for GitHub)
+/data/
+*.csv
+*.xlsx
+*.json
+
+# Environment specific
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# XAMPP specific
+/xampp/
+/htdocs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Large data files
+*.pkl
+*.h5
+*.model
